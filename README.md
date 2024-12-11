@@ -34,7 +34,7 @@
   <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="linkedin" />
 </a>
   <a href="" target="_blank">
-  <img src="https://cdn.simpleicons.org/twitter" width="40" height="40" alt="twitter" />
+  <img src="https://cdn.simpleicons.org/x" width="40" height="40" alt="twitter" />
 </a>
   <a href="https://github.com/anasassad" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="github" />
